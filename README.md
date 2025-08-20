@@ -27,8 +27,11 @@ The dashboard is powered by the dataset provided in `Dataset.xlsx`, containing:
 ---
 
 ## 🖼️ Screenshot
+
 Here’s a preview of the dashboard:
-https://github.com/abdulmossawer/Fitness_Dashboard_In_PoweerBI/blob/main/Fitness%20Dashboard%20ScreenShot.png
+
+![Fitness Dashboard](https://raw.githubusercontent.com/abdulmossawer/Fitness_Dashboard_In_PoweerBI/main/Fitness%20Dashboard%20ScreenShot.png)
+
 
 ---
 
